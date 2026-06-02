@@ -95,7 +95,15 @@ All models are implemented using real market data (`yfinance`) with reproducible
 ### 3. Interpretability
 Every model is transparent, formula-driven, and designed for explainability rather than black-box prediction.
 
----
+## Technologies used
+
+-Python 3.x
+-NumPy
+-Pandas
+-SciPy
+-Matplotlib
+-yFinance
+-Jupyter Notebooks
 
 ## Repository Structure
 
@@ -114,12 +122,4 @@ quant-research-toolkit/
 └── README.md
 ---
 
-## Technologies used
 
--Python 3.x
--NumPy
--Pandas
--SciPy
--Matplotlib
--yFinance
--Jupyter Notebooks
