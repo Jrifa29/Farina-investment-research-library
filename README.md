@@ -97,13 +97,13 @@ Every model is transparent, formula-driven, and designed for explainability rath
 
 ## Technologies used
 
--Python 3.x
--NumPy
--Pandas
--SciPy
--Matplotlib
--yFinance
--Jupyter Notebooks
+- Python 3.x
+- NumPy
+- Pandas
+- SciPy
+- Matplotlib
+- yFinance
+- Jupyter Notebooks
 
 ## Repository Structure
 
