@@ -112,3 +112,13 @@ quant-research-toolkit/
 ├── assets/
 ├── requirements.txt
 └── README.md
+
+## Technologies used
+
+-Python 3.x
+-NumPy
+-Pandas
+-SciPy
+-Matplotlib
+-yFinance
+-Jupyter Notebooks
