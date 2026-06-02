@@ -112,6 +112,7 @@ quant-research-toolkit/
 ├── assets/
 ├── requirements.txt
 └── README.md
+---
 
 ## Technologies used
 
